@@ -1,0 +1,1 @@
+## class should not be forced to depend from upon methods/interfaces that they dont use

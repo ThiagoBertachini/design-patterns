@@ -1,0 +1,4 @@
+## There should never be more than one reason for a class to chance.
+## If you have, for example 3 reasons for changing a class, you need to create
+3 new classes to segregate it.
+
